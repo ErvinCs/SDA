@@ -1,5 +1,5 @@
 # MineSweeper
-Uses a sparse matrix with an underlying HashTable. <br/>
+Uses a sparse matrix with an underlying hash table. <br/>
 Plays through a text user interface. <br/>
 Test coverage: 95%. <br/>
 **Learned:**
